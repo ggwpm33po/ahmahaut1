@@ -1,0 +1,27 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+#header {
+height: 200px;
+background: url('sdsd.png');
+}
+
+#content {
+height: 715px;
+background-color: #ffffff;
+border: 1px solid #999;
+font-size: 14pt;
+}
+
+#content p {
+margin: 20px;
+}
+
+#footer {
+height: 200px;
+background: url('sdsd.png') repeat-x;
+text-align: center;
+font-size: 14pt;
+}
